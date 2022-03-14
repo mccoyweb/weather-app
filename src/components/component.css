@@ -1,0 +1,115 @@
+/* Weather Card Background Images */
+
+.bg-rain { background-image: url(../assets/bg-rain.webp); }
+
+.bg-snow { background-image: url(../assets/bg-snow.webp); }
+
+.bg-clear { background-image: url(../assets/bg-sun.webp); }
+
+.bg-partlycloudy { background-image: url(../assets/bg-partlycloudy.webp); }
+
+.bg-cloudy { background-image: url(../assets/bg-cloudy.webp); }
+
+
+/* Card Specific Styles */
+  
+.card-header {
+    background-color: hsla( var(--clr-black), .5 );
+    border-radius: 6px 6px 0 0;
+    padding: 1rem .5rem;
+    margin-bottom: .5rem;
+}
+
+.current-temp {
+    font-size: var( --fs-700 );
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.description {
+    margin-top: -1rem;
+}
+
+.weather-card {
+    background-color: hsl( var(--clr-blue-500) );
+    color: hsl( var(--clr-white) );
+    text-shadow: 0 0 5px hsla( var(--clr-black), .9 );
+    font-size: var(--fs-400);
+    font-weight: 600;
+}
+
+.current-icon {
+    width: 80px;
+    margin: auto;
+    filter: invert(98%) sepia(2%) saturate(0%) hue-rotate(214deg) brightness(104%) contrast(102%) drop-shadow(0 0 4px black);
+}
+
+.weather-details {
+    padding: 1rem;
+}
+
+.weather-details p {
+    padding: .25rem 1rem;
+}
+
+.weather-alert {
+    padding: .25rem;
+    background-color: hsl( var(--clr-gray-blue-900) );
+    color: hsl( var(--clr-white) ); 
+    border-radius: 0 0 6px 6px;
+    font-weight: 600;
+    font-size: var(--fs-400);
+    display: flex;
+    justify-content: center;
+}
+
+.alert-icon {
+    display: inline;
+    width: 20px;
+}
+
+
+
+.hourly-card > div, .forecast-card > div {
+    padding: 1rem .5rem;
+}
+
+.hourly-card img, .forecast-card img {
+    width: 50px;
+    margin: .25rem auto;
+}
+
+.temp {
+    font-size: var(--fs-400);
+    font-weight: 600;
+}
+
+.forecast-section > * {
+    width: 20%;
+  }
+  
+.forecast-section > div + div {
+    border-left: 1px solid hsl( var(--clr-gray-blue-500) );
+}
+
+.add-card .flex {
+    justify-content: space-between;
+}
+
+.add-details p {
+    display: flex;
+    align-items: center;
+    padding: .5rem .75rem .5rem .5rem;
+}
+
+.add-details > div + div {
+    border-top: 1px solid hsl( var(--clr-gray-blue-500) );
+}
+
+.add-img {
+    width: 28px;
+}
+
+.sun p {
+    padding: 1rem;
+}
