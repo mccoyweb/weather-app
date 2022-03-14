@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/weather-app/static/css/main.84cf064c.css",
+    "main.js": "/weather-app/static/js/main.e330cf0a.js",
+    "static/js/787.d9312eb8.chunk.js": "/weather-app/static/js/787.d9312eb8.chunk.js",
+    "static/media/bg-snow.webp": "/weather-app/static/media/bg-snow.3718f1e238b7e5c947a2.webp",
+    "static/media/10d.svg": "/weather-app/static/media/10d.320e0e5ad36b9104b579d3bda74c71f0.svg",
+    "static/media/11d.svg": "/weather-app/static/media/11d.4dd82b3f979296206124edb9a2bc6766.svg",
+    "static/media/13d.svg": "/weather-app/static/media/13d.c9f5e3ad85b1a66b37228bad6607e677.svg",
+    "static/media/13n.svg": "/weather-app/static/media/13n.c9f5e3ad85b1a66b37228bad6607e677.svg",
+    "static/media/02d.svg": "/weather-app/static/media/02d.db7b549b099ea04dfc3b7e8b8d3fa13b.svg",
+    "static/media/10n.svg": "/weather-app/static/media/10n.6c324d4d4c0b9b4d28a9509aef3358b4.svg",
+    "static/media/01d.svg": "/weather-app/static/media/01d.c23e7855e1cb8ac7c36d069db6dc68c5.svg",
+    "static/media/wi-sun.svg": "/weather-app/static/media/wi-sun.c23e7855e1cb8ac7c36d069db6dc68c5.svg",
+    "static/media/bg-cloudy.webp": "/weather-app/static/media/bg-cloudy.38316b9a0feda56fe54f.webp",
+    "static/media/bg-partlycloudy.webp": "/weather-app/static/media/bg-partlycloudy.d13e66018bc3705550bb.webp",
+    "static/media/09d.svg": "/weather-app/static/media/09d.90fd14198e4b9af0dd81a403d300a9ae.svg",
+    "static/media/09n.svg": "/weather-app/static/media/09n.90fd14198e4b9af0dd81a403d300a9ae.svg",
+    "static/media/bg-rain.webp": "/weather-app/static/media/bg-rain.e14f9d01cbb420c5d3f3.webp",
+    "static/media/11n.svg": "/weather-app/static/media/11n.81db1abb31d63f14e94a06ea72157d1c.svg",
+    "static/media/50d.svg": "/weather-app/static/media/50d.7c3d1014174434d5d7082e5b119b2cf6.svg",
+    "static/media/50n.svg": "/weather-app/static/media/50n.7c3d1014174434d5d7082e5b119b2cf6.svg",
+    "static/media/04d.svg": "/weather-app/static/media/04d.ba3686e4a3d64a9dc5cff6628ec1a8ed.svg",
+    "static/media/04n.svg": "/weather-app/static/media/04n.ba3686e4a3d64a9dc5cff6628ec1a8ed.svg",
+    "static/media/bg-sun.webp": "/weather-app/static/media/bg-sun.c0f01a784cab64970958.webp",
+    "static/media/02n.svg": "/weather-app/static/media/02n.fa23e8f2ff7827970a1575f5a881f8a5.svg",
+    "static/media/wi-visibility.svg": "/weather-app/static/media/wi-visibility.cb841d8a2320d466834c47ffa5fcbbc0.svg",
+    "static/media/wi-barometer.svg": "/weather-app/static/media/wi-barometer.e9c43f109d7e087243bb5de5d08ee6fc.svg",
+    "static/media/01n.svg": "/weather-app/static/media/01n.2923306bed84bccf8845e60e2b0f3aed.svg",
+    "static/media/03d.svg": "/weather-app/static/media/03d.f7ed7c0e2663da6c517e8edceb09c248.svg",
+    "static/media/03n.svg": "/weather-app/static/media/03n.f7ed7c0e2663da6c517e8edceb09c248.svg",
+    "static/media/warning.svg": "/weather-app/static/media/warning.2e705cd5b60963b51ee3e6694821e80f.svg",
+    "static/media/wi-dewpoint.svg": "/weather-app/static/media/wi-dewpoint.eba656b088d49979e4d1484df9f772ce.svg",
+    "index.html": "/weather-app/index.html",
+    "main.84cf064c.css.map": "/weather-app/static/css/main.84cf064c.css.map",
+    "main.e330cf0a.js.map": "/weather-app/static/js/main.e330cf0a.js.map",
+    "787.d9312eb8.chunk.js.map": "/weather-app/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84cf064c.css",
+    "static/js/main.e330cf0a.js"
+  ]
+}
